@@ -18,3 +18,13 @@
 ### 5.User Interaction:
 * Develop an intuitive interface for user input and agent responses.
 * Implement logging and error handling for improved user experience.
+
+### Libraries Used:
+✅ smolagents – For building AI agents
+✅ os – For setting environment variables
+✅ Hugging Face (HF) – For accessing machine learning models
+✅ DuckDuckGoSearchTool – For web search integration
+
+## Summary:
+* The project creates an AI-driven agent that combines code generation with real-time information retrieval. It enables dynamic responses to complex questions, automates code-related tasks, and enhances productivity using a multi-agent framework. The CodeAgent handles coding tasks, while the ToolCallingAgent processes search queries — making the solution versatile for various AI and automation applications.
+
