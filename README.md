@@ -21,8 +21,11 @@
 
 ### Libraries Used:
 ✅ smolagents – For building AI agents
+
 ✅ os – For setting environment variables
+
 ✅ Hugging Face (HF) – For accessing machine learning models
+
 ✅ DuckDuckGoSearchTool – For web search integration
 
 ## Summary:
